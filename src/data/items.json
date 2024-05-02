@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8f4dbcc5f8f041478d6bf895a572fc94_9366/Buty_Gazelle_Brazowy_IG6199_01_standard.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9f7d4a7947e04cac9d92d533438610c2_9366/Buty_Gazelle_Zielony_IG1634_01_standard.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/35f43811659f42d8bbfe9ed485c526cb_9366/Buty_Gazelle_Turkusowy_IG1061_01_standard.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4745ba78d0224d8db0d369f3eae7a7cb_9366/Buty_Gazelle_Czerwony_IG6213_01_standard.jpg"
+  }
+]
